@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khairyhassan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning  python, c++, html
+- 🌱 I’m currently learning  python, c++, html,CSS,JS,SASS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
